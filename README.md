@@ -69,8 +69,6 @@ No rush, no noise — just deliberate progress.
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="24" alt="Android" />
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="24" alt="VS Code" />
 
----
-
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="20" />
   <img src="https://capsule-render.vercel.app/api?type=rect&text=GitHub&fontSize=26&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
@@ -82,33 +80,6 @@ No rush, no noise — just deliberate progress.
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="20" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Octodex%20Wall%20%2F%20Vibes&fontSize=24&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
-</p>
-
-<p align="left">
-  <img src="https://octodex.github.com/images/universetocat.png" width="180" alt="Universetocat" />
-  <img src="https://octodex.github.com/images/welcometocat.png" width="180" alt="Welcometocat" />
-  <img src="https://octodex.github.com/images/jetpacktocat.png" width="180" alt="Jetpacktocat" />
-  <img src="https://octodex.github.com/images/yaktocat.png" width="180" alt="Yaktocat" />
-</p>
-
-<details>
-  <summary><strong>More Octocats (click)</strong></summary>
-  <br />
-  <p align="left">
-    <img src="https://octodex.github.com/images/spidertocat.png" width="160" alt="Spidertocat" />
-    <img src="https://octodex.github.com/images/octoliberty.png" width="160" alt="Octoliberty" />
-    <img src="https://octodex.github.com/images/dunetocat.png" width="160" alt="Dunetocat" />
-    <img src="https://octodex.github.com/images/Robotocat.png" width="160" alt="Robotocat" />
-    <img src="https://octodex.github.com/images/Professortocat_v2.png" width="160" alt="Professortocat" />
-    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160" alt="Daftpunktocat" />
-  </p>
-  <p>
-    Source: GitHub Octodex
-  </p>
-</details>
-
----
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="20" />

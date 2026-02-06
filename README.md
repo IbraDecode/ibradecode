@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&fontSize=40&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&desc=Builder%20%7C%20Problem-Focused%20%7C%20Long-Term&fontSize=95&descSize=28&fontAlignY=45&descAlignY=70&color=0:111827,100:000000&fontColor=ffffff&height=300" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Divider Animation" />
 </p>
 
 <p align="center">

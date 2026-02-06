@@ -1,10 +1,17 @@
-![Welcome](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Welcome" />
+</p>
 
-![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="center">
+  <strong>Ibra Decode</strong><br />
+  Builder. Problem-focused. Long-term oriented.
+</p>
 
-# Ibra Decode
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" />
+</p>
 
-Builder. Problem-focused. Long-term oriented.
+---
 
 ## About
 I build software with a practical mindset: clear problems, rational solutions, and solid technical execution.

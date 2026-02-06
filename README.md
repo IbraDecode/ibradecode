@@ -71,12 +71,6 @@ No rush, no noise — just deliberate progress.
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="20" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=GitHub&fontSize=26&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibradecode&show_icons=true&hide_title=true)
-
----
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="20" />

@@ -62,7 +62,7 @@
 I build practical software: clear problems, rational solutions, solid execution.  
 Prefer konsisten maju daripada ramai tapi kosong.
 
-This GitHub is my workshop — learn deep, ship small, scale later.  
+This GitHub is my workshop learn deep, ship small, scale later.  
 No rush. No noise. Just deliberate progress.
 
 <p align="center">

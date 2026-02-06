@@ -40,7 +40,7 @@
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"
-    height="36"
+    height="60"
     alt="Coffee"
   />
 </p>

@@ -4,16 +4,14 @@
 
 <p align="center">
   <img
+    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
+    height="64"
+    alt="Hello"
+    style="vertical-align: middle;"
+  />
+   <img
     src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&desc=Builder%20%7C%20Problem-Focused%20%7C%20Long-Term&fontSize=95&descSize=28&fontAlignY=45&descAlignY=70&color=0:111827,100:000000&fontColor=ffffff&height=300"
     alt="Ibra Decode"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
-    height="48"
-    alt="Hello"
   />
 </p>
 

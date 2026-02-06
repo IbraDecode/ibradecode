@@ -10,6 +10,12 @@
     style="vertical-align: middle;"
   />
   <img
+    src="https://readme-components.vercel.app/api?component=text&text=HI+IM&fill=linear-gradient(to%20right%2C%20%23ff8a00%2C%20%23e52e71)%3B"
+    height="48"
+    alt="ABOUT"
+    style="vertical-align: middle;"
+  />
+  <img
     src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&desc=Builder%20%7C%20Problem-Focused%20%7C%20Long-Term&fontSize=95&descSize=28&fontAlignY=45&descAlignY=70&color=0:111827,100:000000&fontColor=ffffff&height=300"
     alt="Ibra Decode"
   />

@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Ibra Decode</strong><br />
-  Builder. Problem-focused. Long-term oriented.
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&fontSize=40&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=100" />
 </p>
 
 <p align="center">

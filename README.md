@@ -1,16 +1,57 @@
-## Hi there 👋
+# Ibra Decode
 
-<!--
-**IbraDecode/ibradecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builder. Problem-focused. Long-term oriented.**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Saya membangun software dengan pendekatan yang praktis: jelas problemnya, masuk akal solusinya, dan bisa dipertanggungjawabkan secara teknis.
+
+GitHub ini berisi project yang saya kerjakan untuk belajar secara serius, menguji ide, dan membangun fondasi skill yang scalable untuk jangka panjang.
+
+Tidak kejar banyak hal sekaligus. Fokus ke hal yang penting dan dieksekusi dengan baik.
+
+
+---
+
+What I Care About
+
+Building useful products
+
+System thinking & architecture
+
+Code quality over hype
+
+
+
+---
+
+Tech Stack
+
+Languages
+JavaScript, Python
+
+Frameworks & Tools
+React, Node.js, Git, GitHub, VS Code
+
+
+---
+
+GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibradecode&show_icons=true&hide_title=true)
+
+
+---
+
+Contact
+
+GitHub: https://github.com/ibradecode
+Email: ibradecode@gmail.com
+
+
+---
+
+Build deliberately. Iterate fast. Think long-term.

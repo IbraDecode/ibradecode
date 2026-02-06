@@ -42,21 +42,21 @@
 ---
 
 <!-- =========================
-          ABOUT (BUBBLE)
+          ABOUT
      ========================= -->
 <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"
-    height="44"
-    alt="About Icon"
-    style="vertical-align: middle; margin-right: 12px;"
+    height="48"
+    alt="About"
+    style="vertical-align: middle; margin-right: 10px;"
   />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=A&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=B&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=O&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=U&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=T&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
+  <img
+    src="https://readme-components.vercel.app/api?component=text&text=ABOUT&fill=linear-gradient(to%20right%2C%20%23ff8a00%2C%20%23e52e71)%3B"
+    height="48"
+    alt="ABOUT"
+    style="vertical-align: middle;"
+  />
 </p>
 
 I build practical software: clear problems, rational solutions, solid execution.  
@@ -64,29 +64,6 @@ Prefer konsisten maju daripada ramai tapi kosong.
 
 This GitHub is my workshop — learn deep, ship small, scale later.  
 No rush. No noise. Just deliberate progress.
-
-<!-- =========================
-      FOCUS (BUBBLE)
-     ========================= -->
-<p align="left">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"
-    height="44"
-    alt="Focus Icon"
-    style="vertical-align: middle; margin-right: 12px;"
-  />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=F&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=O&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=C&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=U&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=S&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-</p>
-
-- Building useful products (bukan cuma demo)
-- System thinking & architecture
-- Code quality over hype
-- Maintainable codebase, clear tradeoffs, long-term scalability
 
 <p align="center">
   <img
@@ -99,31 +76,46 @@ No rush. No noise. Just deliberate progress.
 ---
 
 <!-- =========================
-       TECH STACK (BUBBLE)
+          FOCUS
+     ========================= -->
+<p align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"
+    height="48"
+    alt="Focus"
+    style="vertical-align: middle; margin-right: 10px;"
+  />
+  <img
+    src="https://readme-components.vercel.app/api?component=text&text=FOCUS&fill=linear-gradient(to%20right%2C%20%2311998e%2C%20%2338ef7d)%3B"
+    height="48"
+    alt="FOCUS"
+    style="vertical-align: middle;"
+  />
+</p>
+
+- Building useful products (bukan cuma demo)
+- System thinking & architecture
+- Code quality over hype
+- Maintainable codebase, clear tradeoffs, long-term scalability
+
+---
+
+<!-- =========================
+         TECH STACK
      ========================= -->
 <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
-    height="44"
-    alt="Tech Icon"
-    style="vertical-align: middle; margin-right: 12px;"
+    height="48"
+    alt="Tech"
+    style="vertical-align: middle; margin-right: 10px;"
   />
-
-  <!-- TECH -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=T&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=E&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=C&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=H&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-
-  <!-- spacer -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=%20&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=00000000" />
-
-  <!-- STACK -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=S&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=T&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=A&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=C&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=K&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
+  <img
+    src="https://readme-components.vercel.app/api?component=text&text=TECH%20STACK&fill=linear-gradient(to%20right%2C%20%2300c6ff%2C%20%230072ff)%3B"
+    height="48"
+    alt="TECH STACK"
+    style="vertical-align: middle;"
+  />
 </p>
 
 <p align="center">
@@ -134,13 +126,13 @@ No rush. No noise. Just deliberate progress.
   />
 </p>
 
-**Languages**  
+<strong>Languages</strong>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="80" alt="Python" />
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="80" alt="JavaScript" />
 </p>
 
-**Frameworks / Tools**  
+<strong>Frameworks / Tools</strong>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="80" alt="React" />
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="80" alt="Android" />
@@ -152,30 +144,21 @@ No rush. No noise. Just deliberate progress.
 ---
 
 <!-- =========================
-       CONTACT (BUBBLE)
+          CONTACT
      ========================= -->
 <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
-    height="44"
-    alt="Contact Icon"
-    style="vertical-align: middle; margin-right: 12px;"
+    height="48"
+    alt="Contact"
+    style="vertical-align: middle; margin-right: 10px;"
   />
-
-  <!-- HIT ME UP -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=H&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=I&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=T&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=%20&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=00000000" />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=M&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=E&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=%20&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=00000000" />
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=U&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&textBg=true&text=P&fontSize=34&height=60&fontColor=ffffff&stroke=000000&strokeWidth=5&color=111827" />
+  <img
+    src="https://readme-components.vercel.app/api?component=text&text=GET%20IN%20TOUCH&fill=linear-gradient(to%20right%2C%20%23ff416c%2C%20%23ff4b2b)%3B"
+    height="48"
+    alt="GET IN TOUCH"
+    style="vertical-align: middle;"
+  />
 </p>
 
 <p align="left">

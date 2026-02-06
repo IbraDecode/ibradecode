@@ -1,57 +1,34 @@
+![Welcome](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)
+
+![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 # Ibra Decode
 
-**Builder. Problem-focused. Long-term oriented.**
+Builder. Problem-focused. Long-term oriented.
 
+## About
+I build software with a practical mindset: clear problems, rational solutions, and solid technical execution.
 
----
+This GitHub is a collection of projects I use to learn deeply, test ideas, and build scalable fundamentals over time.  
+No rush, no noise — just deliberate progress.
 
-### About
+## What I Care About
+- Building useful products
+- System thinking & architecture
+- Code quality over hype
 
-Saya membangun software dengan pendekatan yang praktis: jelas problemnya, masuk akal solusinya, dan bisa dipertanggungjawabkan secara teknis.
-
-GitHub ini berisi project yang saya kerjakan untuk belajar secara serius, menguji ide, dan membangun fondasi skill yang scalable untuk jangka panjang.
-
-Tidak kejar banyak hal sekaligus. Fokus ke hal yang penting dan dieksekusi dengan baik.
-
-
----
-
-What I Care About
-
-Building useful products
-
-System thinking & architecture
-
-Code quality over hype
-
-
-
----
-
-Tech Stack
-
-Languages
+## Tech Stack
+**Languages**  
 JavaScript, Python
 
-Frameworks & Tools
+**Frameworks & Tools**  
 React, Node.js, Git, GitHub, VS Code
 
-
----
-
-GitHub
-
+## GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibradecode&show_icons=true&hide_title=true)
 
-
----
-
-Contact
-
-GitHub: https://github.com/ibradecode
+## Contact
+GitHub: https://github.com/ibradecode  
 Email: ibradecode@gmail.com
 
-
----
-
-Build deliberately. Iterate fast. Think long-term.
+Build deliberately. Think long-term.

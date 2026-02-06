@@ -149,7 +149,7 @@ No rush. No noise. Just deliberate progress.
 <p align="left">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
-    height="48"
+    height="100"
     alt="Contact"
     style="vertical-align: middle; margin-right: 10px;"
   />
@@ -172,21 +172,21 @@ No rush. No noise. Just deliberate progress.
   <a href="mailto:ibradecode@gmail.com" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"
-      height="26"
+      height="45"
       alt="Email"
     />
   </a>
   <a href="https://wa.me/6285792820173" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"
-      height="26"
+      height="45"
       alt="WhatsApp"
     />
   </a>
   <a href="https://instagram.com/ibrarmdn78_" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
-      height="26"
+      height="45"
       alt="Instagram"
     />
   </a>

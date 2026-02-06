@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Welcome" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ibra%20Decode&fontSize=42&fontAlignY=35&height=160&color=0:111827,100:0ea5e9&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ibra%20Decode&fontSize=40&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Welcome" />
 </p>
 
 <p align="center">

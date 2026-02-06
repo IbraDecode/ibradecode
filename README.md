@@ -25,7 +25,7 @@
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="50" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=About%20%2F%20Tentang&fontSize=35&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=About%20%2F%20Tentang&fontSize=35&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=60" />
 </p>
 
 I build software with a practical mindset: clear problems, rational solutions, and solid technical execution.
@@ -33,8 +33,6 @@ Saya lebih prefer progress yang konsisten daripada ramai tapi kosong.
 
 This GitHub is a collection of projects I use to learn deeply, test ideas, and build scalable fundamentals over time.  
 No rush, no noise — just deliberate progress.
-
----
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20" />

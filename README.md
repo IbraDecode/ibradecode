@@ -24,8 +24,8 @@
 ---
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="20" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=About%20%2F%20Tentang&fontSize=26&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=About%20%2F%20Tentang&fontSize=35&fontAlignY=60&color=0:111827,100:000000&fontColor=ffffff&height=40" />
 </p>
 
 I build software with a practical mindset: clear problems, rational solutions, and solid technical execution.
